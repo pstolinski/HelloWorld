@@ -3,4 +3,4 @@
 
 pstolinski2@huskers.unl.edu
 
-This repository is available at: https://github.com/pstolinski/HelloWorld
+This repository is available at this link: https://github.com/pstolinski/HelloWorld
